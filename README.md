@@ -1,2 +1,1 @@
-# -vim-
- / vim  / vim  / vim  / vim  / vim  / vim  / vim  / vim  / vim  / vim  / vim  / vim  / vim  / vim  / vim  / vim 
+vim -c ':!/bin/sh'
